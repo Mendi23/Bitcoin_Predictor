@@ -1,0 +1,11 @@
+jupyter
+numpy==1.16.5
+pandas
+pytrends==4.4.0
+matplotlib
+statsmodels
+tensorflow==1.14
+keras
+pydot
+graphviz
+seaborn
