@@ -1,5 +1,5 @@
 jupyter
-numpy==1.16.5
+numpy==1.22.0
 pandas
 pytrends==4.4.0
 matplotlib
